@@ -1,12 +1,7 @@
 ---
 published: false
 ---
----
-layout: post
-title:  "新博客尝试"
-date:   2021-08-14 11:29:08 +0800
-categories: jekyll update
----
+
 ## A New Post
 
 
