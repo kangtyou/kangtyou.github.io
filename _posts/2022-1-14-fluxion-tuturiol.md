@@ -2,6 +2,10 @@
 layout: post
 categories: 技术
 ---
+
+# **What I need is a usb to boot kali or another wifi adapter to use it in a VM**
+
+
 # **How to Hack Password Protected Hidden WiFi In Kali Linux Using Fluxion**
 
 This tutorial is divided into two parts, the first section is how we can manually reveal the hidden Wi-Fi access around us, and the second is how to hack or to get access to that hidden Wi-Fi which is protected using a password.
