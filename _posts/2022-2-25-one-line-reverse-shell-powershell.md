@@ -1,7 +1,6 @@
 ---
-layout:post
-categories:
-  - 技术
+layout: post
+categories: 技术
 ---
 
 ## PowerShell for Pentester: Windows Reverse Shell
