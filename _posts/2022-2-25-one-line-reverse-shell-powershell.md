@@ -1,6 +1,6 @@
 ---
--layout:post
--categories:
+layout:post
+categories:
   - 技术
 ---
 
