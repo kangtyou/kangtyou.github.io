@@ -1,10 +1,10 @@
 ---
 -layout:post
-categories:
+-categories:
   - 技术
 ---
 
-# PowerShell for Pentester: Windows Reverse Shell
+## PowerShell for Pentester: Windows Reverse Shell
 
 [<time class="entry-date published updated" datetime="2021-12-03T13:45:26+00:00">December 3, 2021</time>](https://www.hackingarticles.in/powershell-for-pentester-windows-reverse-shell/) by [Raj Chandel](https://www.hackingarticles.in/author/admin/)
 
