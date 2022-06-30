@@ -1,5 +1,7 @@
 ---
 published: true
+layout: post
+categories: 健康
 ---
 ## A working envrionment
 
