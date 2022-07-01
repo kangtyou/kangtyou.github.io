@@ -1,5 +1,6 @@
 ---
 layout: null
+published: true
 ---
 \[
   \{\% for post in site.posts \%\}
