@@ -1,6 +1,6 @@
+<!--为了防止被编译运行，这里添加了反斜杠，自己手动取掉反斜杠。
 ---
 layout: null
-published: true
 ---
 \[
   \{\% for post in site.posts \%\}
@@ -13,3 +13,4 @@ published: true
     \} \{\% unless forloop.last \%\},\{\% endunless \%\}
   \{\% endfor \%\}
 \]
+-->
