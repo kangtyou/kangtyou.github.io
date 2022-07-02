@@ -22,4 +22,4 @@ categories: 技术
 - markdown转pdf功能
 
 
-好像这个`proseio`本身也是可以上传图片的，而且是上传到本post目录下的。
+好像这个`proseio`本身也是可以上传图片的，而且是上传到本post目录下的。 Ok, seems that this is not useful!
