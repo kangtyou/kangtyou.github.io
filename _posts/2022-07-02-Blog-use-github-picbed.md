@@ -31,7 +31,7 @@ categories: 技术
 
 {% raw %}
 
-	---
+---
 layout: none
 ---
 [
@@ -84,9 +84,10 @@ layout: none
  
  改变search.json为下述代码：
  
- {% raw %}
  
-  ---
+{% raw %}
+ 
+---
 layout: none
 ---
 [
@@ -127,17 +128,17 @@ layout: none
 
 ### 有时候当你的代码块出现错误的时候使用以下的格式书写代码：
 
-```c
+{% raw %}
 {% raw %}
 
 	// your code here
 
 {% endraw %}
-```
+{% endraw %}
 
 ### 或者使用下面的代码高亮格式
 
-```c
+{% raw %}
 
 {% highlight html linenos %}
 
@@ -145,6 +146,7 @@ layout: none
 
 {% endhighlight %}
 
-```
+{% endraw %}
+
 
  
