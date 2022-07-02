@@ -1,5 +1,7 @@
 ---
-published: false
+published: true
+layout: post
+categories: 技术
 ---
 ## 使用github图床，利用picgo插件进行图片上传得到图片链接
 
@@ -15,4 +17,3 @@ published: false
 
 []博客搜索功能
 []markdown转pdf功能
-
