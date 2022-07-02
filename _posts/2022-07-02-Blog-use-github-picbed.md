@@ -18,8 +18,8 @@ categories: 技术
 
 使用`win + shift + s`键可以选择性截图，目前唯一的问题就是**博客搜索功能**和**markdown转pdf**的功能没有解决
 
-- 博客搜索功能
-- markdown转pdf功能
+- [x] 博客搜索功能
+- [x] markdown转pdf功能
 
 
 好像这个`proseio`本身也是可以上传图片的，而且是上传到本post目录下的。 Ok, seems that this is not useful!
@@ -28,7 +28,8 @@ categories: 技术
 ### 博客搜索功能
 
 新建`search.json`文件到根目录：
-```
+
+```json
 ---
 layout: none
 ---
@@ -48,7 +49,7 @@ layout: none
 
 ### 修改页面文件search.html
 
-```
+```html
 <!-- HTML elements for search-->
 <div id="search-container" style="float:right;position: fixed;right:0px; bottom:10px; z-index:999999;background:#eeeeee;padding:10px 10px 0px 10px;">
   <input type="text" id="search-input" placeholder="search..." style="border:2px solid;border-radius:25px;padding-left:10px !important;" >
@@ -79,7 +80,7 @@ layout: none
  
  改变search.json为下述代码：
  
- ```
+ ```json
  ---
 layout: none
 ---
