@@ -80,43 +80,9 @@ layout: none
  ### 在default.html中修改，从而能在每一个页面都能够出现搜索
  
  
- ### 开启全局搜索
- 
- 改变search.json为下述代码：
- 
- 
-{% raw %}
- 
----
-layout: none
----
-[
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}",
-      "content"  : "{{ post.content | strip_html | strip_newlines }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-  ,
-  {% for page in site.pages %}
-   {
-     {% if page.title != nil %}
-        "title"    : "{{ page.title | escape }}",
-        "category" : "{{ page.category }}",
-        "tags"     : "{{ page.tags | join: ', ' }}",
-        "url"      : "{{ site.baseurl }}{{ page.url }}",
-        "date"     : "{{ page.date }}",
-        "content"  : "{{ page.content | strip_html | strip_newlines }}"
-     {% endif %}
-   } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
-
- {% endraw %}
+### More info about jekyll
+[jekyll search](https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/README.md)
+[jekyll codeblock](https://rachelmad.github.io/entries/2016/11/06/code-in-jekyll#:~:text=Sometimes%2C%20you%20may%20have%20to%20explain%20something%20in,%25%7D%20%2F%2F%20your%20code%20here%20%7B%25%20endraw%20%25%7D)
  
 
 
@@ -126,27 +92,7 @@ layout: none
 **Over!!**
 
 
-### 有时候当你的代码块出现错误的时候使用以下的格式书写代码：
 
-{% raw %}
-{% raw %}
-
-	// your code here
-
-{% endraw %}
-{% endraw %}
-
-### 或者使用下面的代码高亮格式
-
-{% raw %}
-
-{% highlight html linenos %}
-
-	// your code here
-
-{% endhighlight %}
-
-{% endraw %}
 
 
  
