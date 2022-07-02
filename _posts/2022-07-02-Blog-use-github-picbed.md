@@ -40,7 +40,7 @@ categories: 技术
 
 ### 修改页面文件search.html
 
-{ % highlight html linenos %}
+```html
 <!-- HTML elements for search-->
 <div id="search-container" style="float:right;position: fixed;right:0px; bottom:10px; z-index:999999;background:#eeeeee;padding:10px 10px 0px 10px;">
   <input type="text" id="search-input" placeholder="search..." style="border:2px solid;border-radius:25px;padding-left:10px !important;" >
@@ -62,14 +62,16 @@ categories: 技术
         exclude: ['Welcome']
       })
     </script>
- { % endhighlight %}
+ ```
  
  ### 在default.html中修改，从而能在每一个页面都能够出现搜索
  
  
 ### More info about jekyll
-[jekyll search](https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/README.md)
-[jekyll codeblock](https://rachelmad.github.io/entries/2016/11/06/code-in-jekyll#:~:text=Sometimes%2C%20you%20may%20have%20to%20explain%20something%20in,%25%7D%20%2F%2F%20your%20code%20here%20%7B%25%20endraw%20%25%7D)
+1. [jekyll search](https://github.com/christian-fei/Simple-Jekyll-Search/blob/master/README.md)
+
+
+2. [jekyll codeblock](https://rachelmad.github.io/entries/2016/11/06/code-in-jekyll#:~:text=Sometimes%2C%20you%20may%20have%20to%20explain%20something%20in,%25%7D%20%2F%2F%20your%20code%20here%20%7B%25%20endraw%20%25%7D)
  
 
 
