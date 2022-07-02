@@ -29,8 +29,9 @@ categories: 技术
 
 新建`search.json`文件到根目录：
 
-```json
----
+{% raw %}
+
+	---
 layout: none
 ---
 [
@@ -44,7 +45,10 @@ layout: none
     } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
-```
+
+{% endraw %}
+
+
 复制上面的项目里面的dest目录下面的simple-jekyll-search.min.js,复制到网站根目录的js文件夹里面.
 
 ### 修改页面文件search.html
@@ -80,8 +84,9 @@ layout: none
  
  改变search.json为下述代码：
  
- ```raw
- ---
+ {% raw %}
+ 
+  ---
 layout: none
 ---
 [
@@ -109,10 +114,37 @@ layout: none
    } {% unless forloop.last %},{% endunless %}
   {% endfor %}
 ]
-```
+
+ {% endraw %}
+ 
+
+
 
 ### About markdown convert to pdf, I can simply convert it to html and then convert to pdf
 
 **Over!!**
+
+
+### 有时候当你的代码块出现错误的时候使用以下的格式书写代码：
+
+```c
+{% raw %}
+
+	// your code here
+
+{% endraw %}
+```
+
+### 或者使用下面的代码高亮格式
+
+```c
+
+{% highlight html linenos %}
+
+	// your code here
+
+{% endhighlight %}
+
+```
 
  
