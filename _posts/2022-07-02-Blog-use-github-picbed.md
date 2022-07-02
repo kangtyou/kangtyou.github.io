@@ -29,24 +29,11 @@ categories: 技术
 
 新建`search.json`文件到根目录：
 
-{% raw %}
 
----
-layout: none
----
-[
-  {% for post in site.posts %}
-    {
-      "title"    : "{{ post.title | escape }}",
-      "category" : "{{ post.category }}",
-      "tags"     : "{{ post.tags | join: ', ' }}",
-      "url"      : "{{ site.baseurl }}{{ post.url }}",
-      "date"     : "{{ post.date }}"
-    } {% unless forloop.last %},{% endunless %}
-  {% endfor %}
-]
 
-{% endraw %}
+
+
+
 
 
 复制上面的项目里面的dest目录下面的simple-jekyll-search.min.js,复制到网站根目录的js文件夹里面.
@@ -90,9 +77,3 @@ layout: none
 ### About markdown convert to pdf, I can simply convert it to html and then convert to pdf
 
 **Over!!**
-
-
-
-
-
- 
