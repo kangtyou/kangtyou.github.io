@@ -53,7 +53,7 @@ layout: none
 
 ### 修改页面文件search.html
 
-```html
+{ % highlight html linenos %}
 <!-- HTML elements for search-->
 <div id="search-container" style="float:right;position: fixed;right:0px; bottom:10px; z-index:999999;background:#eeeeee;padding:10px 10px 0px 10px;">
   <input type="text" id="search-input" placeholder="search..." style="border:2px solid;border-radius:25px;padding-left:10px !important;" >
@@ -75,7 +75,7 @@ layout: none
         exclude: ['Welcome']
       })
     </script>
- ```
+ { % endhighlight %}
  
  ### 在default.html中修改，从而能在每一个页面都能够出现搜索
  
