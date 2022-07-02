@@ -64,7 +64,7 @@ categories: 技术
     </script>
  ```
  
- ### 在default.html中修改，从而能在每一个页面都能够出现搜索
+### 在default.html中修改，从而能在每一个页面都能够出现搜索
  
  
 ### More info about jekyll
