@@ -80,7 +80,7 @@ layout: none
  
  改变search.json为下述代码：
  
- ```json
+ ```raw
  ---
 layout: none
 ---
