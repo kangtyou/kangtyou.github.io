@@ -28,7 +28,7 @@ categories: 技术
 ### 博客搜索功能
 
 新建`search.json`文件到根目录：
-```json
+```
 ---
 layout: none
 ---
