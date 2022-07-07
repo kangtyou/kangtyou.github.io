@@ -2,7 +2,7 @@
 published: true
 categories: 技术
 ---
-## 通过Termux在同一个wifi中启动电视的adb安装TVbox
+### 通过Termux在同一个wifi中启动电视的adb安装TVbox
 
 之前每次想要给智能电视安装软件都需要自己带一台电脑，这种方式非常的不方便，于是想到了通过手机安装一个**Termux**模拟器的方式来让自己能够随时地安装软件。
 
