@@ -1,6 +1,6 @@
 ---
 published: true
-categories: '技术,记录'
+categories: 技术
 ---
 ## 通过Termux在同一个wifi中启动电视的adb安装TVbox
 
