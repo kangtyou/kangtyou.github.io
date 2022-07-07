@@ -137,7 +137,26 @@ print ("Scanning completed in: ",total)
 
 ```
 
+### 安装adb，使用adb安装tvbox
 
+adb已经集成到`termux-platform-tools`里面了，所以安装adb，只需要安装这个包
+
+`pkg install platform-tools`
+
+
+下载tvbox到终端中，使用curl命令
+
+`curl -s http://y8lc.692657.com/com.github.tvbox.osc.apk -o tvbox.apk`
+
+然后通过上面的pingscan发现电视ip，电视打开调试过后，adb连接这个ip
+
+`adb connect ip`
+
+最后是安装这个软件
+
+`adb install tvbox.apk`
+
+最后就是愉快地使用吧！！！
 
 
 
