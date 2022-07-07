@@ -1,5 +1,6 @@
 ---
 published: true
+categories: '-技术'
 ---
 ## 通过Termux在同一个wifi中启动电视的adb安装TVbox
 
@@ -26,19 +27,25 @@ apt upgrade
 黑客特效
 
 ```bash
+
 pkg install cmatrix
+
 ```
 
 Run
 
 ```bash
+
 cmatrix
+
 ```
 
 火车特效
 
 ```bash
+
 pkg install sl
+
 ```
 
 Run
