@@ -11,7 +11,6 @@ categories: 技术
 使用之前输入下面的命令初始化：
 
 ```bash
-
 apt update 
 
 %更新源
@@ -19,7 +18,6 @@ apt update
 apt upgrade
 
 %更新软件和依赖
-
 ```
 
 ### Some interesting package
@@ -27,25 +25,19 @@ apt upgrade
 黑客特效
 
 ```bash
-
 pkg install cmatrix
-
 ```
 
 Run
 
 ```bash
-
 cmatrix
-
 ```
 
 火车特效
 
 ```bash
-
 pkg install sl
-
 ```
 
 Run
