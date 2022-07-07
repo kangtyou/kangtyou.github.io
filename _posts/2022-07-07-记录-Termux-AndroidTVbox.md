@@ -26,25 +26,19 @@ apt upgrade
 黑客特效
 
 ```bash
-
 pkg install cmatrix
-
 ```
 
 Run
 
 ```bash
-
 cmatrix
-
 ```
 
 火车特效
 
 ```bash
-
 pkg install sl
-
 ```
 
 Run
