@@ -45,3 +45,41 @@ Run
 ```bash
 sl
 ```
+
+### 扫描网络
+
+如果要在不同去查看局域网的情况下知道电视的ip地址，那么就需要对局域网进行扫描，我们可以使用`nmap`来完成这个事情。
+
+在termux中安装nmap
+
+`pkg install nmap`
+
+扫描ip是否up
+
+`nmap -sn iprange`
+
+因为安卓手机没有被root，所以好像用pingscan没办法扫出存活的ip，第二就算知道这个ip也必须用problescan才能扫出开放的端口
+
+`nmap -Pn ip`   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
