@@ -15,7 +15,8 @@ A smart person will have a lot of thing to talk or ideas to share. But if the en
 Although every person need to read books or perceive information to enlarge our view about this world. But remember one thing, **we are here in this world distill information not swollow information**. We should respect our brain, let it think with their own power, judge without biasis. Stop thinking all the bad emotion that comes from our brain are bad. Actually you need to face yourself more authenticly, accept the pure yourself, and keep or care your brain condition. 
 
 - 入手一个这个IKF King降噪耳机
-[JD](https://union-click.jd.com/jdc?e=jdext-1530312608808275968-0-1&p=JF8BAR8JK1olXgACV1xZAEMTBV8IGloRXgAGVVlfC0wTAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsLHV8UWgQBU1peFxJSXzI4EgtqIGF9UiQ4cRtoAxheWF9RAH5RJFJROEseA20AGloVWgUyVF9cCE8SAGwOGmslXQMyFTBdCEkXBGcLHWsUbQYFUFhaCk4fB2kBGl0lXQ4GZIjznJ6fvLa4vo2_89OP5IvUo5-phV84K1glBlNWHRtBCE8VAm0IGFwUVA8DXV1bDEMQCnMJB1slXQcDV1xfD0oSBAENGloUXgcFVV9cZkkWAmwMGV4VXQ8yVG5eOBV5AjwBHA8SWlRsCVoFAEtcU2tmHVwQWg4CXV1tCkoWAW04Kw)
+
+[JD链接](https://union-click.jd.com/jdc?e=jdext-1530312608808275968-0-1&p=JF8BAR8JK1olXgACV1xZAEMTBV8IGloRXgAGVVlfC0wTAF9MRANLAjZbERscSkAJHTdNTwcKBlMdBgABFksWAmsLHV8UWgQBU1peFxJSXzI4EgtqIGF9UiQ4cRtoAxheWF9RAH5RJFJROEseA20AGloVWgUyVF9cCE8SAGwOGmslXQMyFTBdCEkXBGcLHWsUbQYFUFhaCk4fB2kBGl0lXQ4GZIjznJ6fvLa4vo2_89OP5IvUo5-phV84K1glBlNWHRtBCE8VAm0IGFwUVA8DXV1bDEMQCnMJB1slXQcDV1xfD0oSBAENGloUXgcFVV9cZkkWAmwMGV4VXQ8yVG5eOBV5AjwBHA8SWlRsCVoFAEtcU2tmHVwQWg4CXV1tCkoWAW04Kw)
 
 - 英文打自动补全还是没有什么意义，因为这好像不太习惯会打扰自己的思维，还是就用微软的输入法好了
 
