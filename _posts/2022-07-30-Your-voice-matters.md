@@ -12,4 +12,6 @@ A smart person will have a lot of thing to talk or ideas to share. But if the en
 
 ## Accept the pure self and face it
 
+Although every person need to read books or perceive information to enlarge our view about this world. But remember one thing, **we are here in this world distill information not swollow information**. We should respect our brain, let it think with their own power, judge without biasis. Stop thinking all the bad emotion that comes from our brain are bad. Actually you need to face yourself more authenticly, accept the pure yourself, and keep or care your brain condition.
+
 
