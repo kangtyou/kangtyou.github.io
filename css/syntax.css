@@ -68,7 +68,7 @@
 .highlight {
     background: rgb(230, 230, 230);
     max-height: 300px;
-    /*overflow: scroll;*/
+    overflow: auto;
     border: 1px #C1C1C1;
     border-radius: 3px;
 }
